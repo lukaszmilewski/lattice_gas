@@ -54,6 +54,7 @@ int main(int argc, char *argv[])
     
     initialise();
 
+        cout << endl;
 }
 else {cout << "Wrong arguments!";}
     return 0;
